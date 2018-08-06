@@ -123,7 +123,7 @@ img.svg{
     position: absolute;
     height: 50%;
     width: 100%;
-    background-color: rgba(10,4,37,1);
+    background-color: rgba(25,64,119,1);
 	
     -webkit-transition: .7s all ease;
     -o-transition: .7s all ease;
@@ -176,7 +176,7 @@ img.svg{
 	     -o-transition: all .3s ease;
 	        transition: all .3s ease;
 }
-.wesley_tm_header.scroll .wesley_tm_navigation_wrap .menu > ul > li:hover a{color: #fd4d4d;}
+.wesley_tm_header.scroll .wesley_tm_navigation_wrap .menu > ul > li:hover a{color: #f28e37;}
 .wesley_tm_navigation_wrap,
 .wesley_tm_navigation_wrap .navigation_inner{
 	width: 100%;
@@ -243,7 +243,7 @@ img.svg{
 	     -o-transition: all .3s ease;
 	        transition: all .3s ease;
 }
-.wesley_tm_navigation_wrap .menu > ul > li:hover a{color: #fd4d4d;}
+.wesley_tm_navigation_wrap .menu > ul > li:hover a{color: #f28e37;}
 .wesley_tm_navigation_wrap .social_icons_wrap{
 	position: absolute;
 	right: 0px;
@@ -490,7 +490,7 @@ img.svg{
 	z-index: 20;
 }
 .wesley_tm_universal_box_wrap .overlay_image.hero{background-image: url(..//img/hero/2.jpg);}
-.wesley_tm_universal_box_wrap .overlay_color.hero{background-color: rgba(10,4,37,.85);}
+.wesley_tm_universal_box_wrap .overlay_color.hero{background-color: rgba(25,64,119,.85);}
 .wesley_tm_universal_box_wrap .content{
 	width: 100%;
 	height: auto;
@@ -533,7 +533,7 @@ img.svg{
 	margin-bottom: 30px;
 }
 .wesley_tm_hero_title .name span{
-	color: #fd4d4d;
+	color: #f28e37;
 	font-size: 75px;
 }
 .wesley_tm_hero_share{
@@ -560,7 +560,7 @@ img.svg{
 	
 	transition: all .3s ease;
 }
-.wesley_tm_hero_share ul li a:hover{color: #fd4d4d;	}
+.wesley_tm_hero_share ul li a:hover{color: #f28e37;	}
 .wesley_tm_hero_share ul li a i{
 	font-size: 17px;
 }
@@ -615,7 +615,7 @@ img.svg{
 .wesley_tm_button a{
 	text-decoration: none;
 	color: #fff;
-	background-color: #fd4d4d;
+	background-color: #f28e37;
 	font-weight: 600;
 	font-family: "Montserrat";
 	padding: 15px 40px;
@@ -635,7 +635,7 @@ img.svg{
 	height: 100%;
 	left: -25%;
 	width: 0%;
-	background-color: rgba(10,4,37,1);
+	background-color: rgba(25,64,119,1);
 	transform: skew(50deg);
 	transition-duration: .6s;
 	z-index: 1;
@@ -722,7 +722,7 @@ img.svg{
 	width: 40%;
 	bottom: 0px;
 	top: 15%;
-	border: 10px solid #fd4d4d;
+	border: 10px solid #f28e37;
 	z-index: -2;
 }
 .wesley_tm_about_wrap .rightbox{
@@ -741,7 +741,7 @@ img.svg{
 }
 .wesley_tm_about_wrap .subtitle p{
 	font-family: "Montserrat";
-	color: rgba(10,4,37,1);
+	color: rgba(25,64,119,1);
 	font-size: 15px;
 	font-weight: 600;
 }
@@ -752,7 +752,7 @@ img.svg{
 }
 .wesley_tm_about_wrap .definition p:last-child{margin-bottom: 0px;}
 .wesley_tm_about_wrap .definition strong{
-	color: #fd4d4d;
+	color: #f28e37;
 	font-family: "Montserrat";
 }
 .wesley_tm_skills_wrap,
@@ -906,7 +906,7 @@ img.svg{
 	box-sizing: border-box;
 }
 .wesley_contact_share a{
-	color: #fd4d4d;
+	color: #f28e37;
 }
 
 .wesley_tm_about_wrap .about_short_contact_wrap{
@@ -946,7 +946,7 @@ img.svg{
     -o-transition: all .3s ease;
     transition: all .3s ease;
 }
-.wesley_tm_about_wrap .about_short_contact_wrap ul li a:hover{color: #fd4d4d;}
+.wesley_tm_about_wrap .about_short_contact_wrap ul li a:hover{color: #f28e37;}
 .wesley_tm_about_wrap .buttons_wrap{
 	width: 100%;
 	height: auto;
@@ -969,7 +969,7 @@ img.svg{
 .wesley_tm_about_wrap .buttons_wrap ul li a{
 	text-decoration: none;
 	color: #fff;
-	background-color: #fd4d4d;
+	background-color: #f28e37;
 	font-weight: 600;
 	font-family: "Montserrat";
 	padding: 15px 40px;
@@ -993,7 +993,7 @@ img.svg{
 	z-index: 2;
 }
 .wesley_tm_about_wrap .buttons_wrap ul li a.download:hover{
-	background-color: #fd4d4d;
+	background-color: #f28e37;
 	color: #fff;
 }
 .wesley_tm_about_wrap .buttons_wrap ul li a:before{
@@ -1003,7 +1003,7 @@ img.svg{
 	height: 100%;
 	left: -25%;
 	width: 0%;
-	background-color: rgba(10,4,37,1);
+	background-color: rgba(25,64,119,1);
 	transform: skew(50deg);
 	transition-duration: .6s;
 	z-index: 1;
@@ -1146,7 +1146,7 @@ img.svg{
 	line-height: 70px;
 	margin: 0px auto;
 	border-radius: 100%;
-	background-color: #fd4d4d;
+	background-color: #f28e37;
 	margin-bottom: 28px;
 }
 .wesley_tm_services_wrap ul li .inner .image .svg{
@@ -1170,7 +1170,7 @@ img.svg{
 	right: 0px;
 	height: 2px;
 	width: 100%;
-	background-color: #fd4d4d;
+	background-color: #f28e37;
 	z-index: 1;
 	
 	-webkit-transition: all .4s ease;
@@ -1181,10 +1181,10 @@ img.svg{
 }
 .wesley_tm_services_wrap ul li .inner:hover .overlay_color{
 	height: 100%;
-	background-color: rgba(10,4,37,1);
+	background-color: rgba(25,64,119,1);
 }
 .wesley_tm_services_wrap ul li .inner:hover .image{background-color: #fff;}
-.wesley_tm_services_wrap ul li .inner:hover .image .svg{color: #fd4d4d;}
+.wesley_tm_services_wrap ul li .inner:hover .image .svg{color: #f28e37;}
 .wesley_tm_services_wrap ul li .inner:hover span{color: #fff;}
 .wesley_tm_services_wrap ul li .inner:hover p{color: #eee;}
 
@@ -1369,7 +1369,7 @@ img.svg{
 			box-sizing: border-box; /* Opera/IE 8+ */ 
 }
 .wesley_tm_universal_box_wrap .overlay_image.counter{background-image: url(..//img/hero/1.jpg);}
-.wesley_tm_universal_box_wrap .overlay_color.counter{background-color: rgba(10,4,37,.85);}
+.wesley_tm_universal_box_wrap .overlay_color.counter{background-color: rgba(25,64,119,.85);}
 .wesley_tm_counter_wrap{
 	width: 100%;
 	height: auto;
@@ -1508,7 +1508,7 @@ img.svg{
 	bottom: 0px;
 	left: 0px;
 	right: 0px;
-	background-color: rgba(10,4,37,.85);
+	background-color: rgba(25,64,119,.85);
 	z-index: 2;
 	
 	-webkit-transition: all .2s ease;
@@ -1608,7 +1608,7 @@ img.svg{
 	     -o-transition: all .1s ease;
 	        transition: all .1s ease;
 }
-.wesley_tm_portfolio_filter li a.current{color: #fd4d4d;}
+.wesley_tm_portfolio_filter li a.current{color: #f28e37;}
 
 /* PORTFOLIO LIST */
 
@@ -1695,7 +1695,7 @@ img.svg{
 			box-sizing: border-box; /* Opera/IE 8+ */ 
 }
 .wesley_tm_universal_box_wrap .overlay_image.testimonial{background-image: url(..//img/hero/3.jpg);}
-.wesley_tm_universal_box_wrap .overlay_color.testimonial{background-color: rgba(10,4,37,.85);}
+.wesley_tm_universal_box_wrap .overlay_color.testimonial{background-color: rgba(25,64,119,.85);}
 .wesley_tm_universal_box_wrap .content.testimonial{padding: 92px 0px 95px 0px;}
 .wesley_tm_testimonial_wrap{
 	width: 100%;
@@ -1834,7 +1834,7 @@ img.svg{
 	right: 100%;
 	margin-right: 8px;
 }
-.wesley_tm_news_wrap .date_wrap p a:hover{color: #fd4d4d;}
+.wesley_tm_news_wrap .date_wrap p a:hover{color: #f28e37;}
 .wesley_tm_news_wrap .title_holder{margin-bottom: 18px;}
 .wesley_tm_news_wrap .title_holder h3{
 	color: #fff;
@@ -1854,13 +1854,13 @@ img.svg{
 	     -o-transition: all .3s ease;
 	        transition: all .3s ease;
 }
-.wesley_tm_news_wrap .title_holder h3 a:hover{color: #fd4d4d;}
+.wesley_tm_news_wrap .title_holder h3 a:hover{color: #f28e37;}
 .wesley_tm_news_wrap .definition{margin-bottom: 26px;}
 .wesley_tm_news_wrap .definition p{color: #333;}
 .wesley_tm_news_wrap .read_more a{
 	text-decoration: none;
 	color: #fff;
-	background-color: #fd4d4d;
+	background-color: #f28e37;
 	font-weight: 600;
 	font-family: "Montserrat";
 	padding: 15px 40px;
@@ -1880,7 +1880,7 @@ img.svg{
 	height: 100%;
 	left: -25%;
 	width: 0%;
-	background-color: rgba(10,4,37,1);
+	background-color: rgba(25,64,119,1);
 	transform: skew(50deg);
 	transition-duration: .6s;
 	z-index: 1;
@@ -2031,7 +2031,7 @@ img.svg{
     -o-transition: all .3s ease;
     transition: all .3s ease;
 }
-#wesley_tm_popup_blog .wesley_tm_popup_share_wrap ul li a:hover{color: #fd4d4d;}
+#wesley_tm_popup_blog .wesley_tm_popup_share_wrap ul li a:hover{color: #f28e37;}
 #wesley_tm_popup_blog .close{
 	position: absolute;
 	top: 30px;
@@ -2118,12 +2118,12 @@ img.svg{
 	text-align: center;
 	background-color: transparent;
 	border: none;
-	border-bottom: 1px solid rgba(10,4,37,1);
+	border-bottom: 1px solid rgba(25,64,119,1);
 	color: #333;
 }
 .wesley_tm_contact_wrap .main_input_wrap .wrap input:focus{
 	outline: none;
-	border-bottom-color: #fd4d4d;
+	border-bottom-color: #f28e37;
 }
 .wesley_tm_contact_wrap .main_input_wrap .wrap textarea{
 	width: 100%;
@@ -2131,18 +2131,18 @@ img.svg{
 	text-align: center;
 	background-color: transparent;
 	border: none;
-	border-bottom: 1px solid rgba(10,4,37,1);
+	border-bottom: 1px solid rgba(25,64,119,1);
 	color: #333;
 }
 .wesley_tm_contact_wrap .main_input_wrap .wrap textarea:focus{
 	outline: none;
-	border-bottom-color: #fd4d4d;
+	border-bottom-color: #f28e37;
 }
 .wesley_tm_contact_wrap .wesley_tm_button{text-align: center;}
 .wesley_tm_contact_wrap .wesley_tm_button a{
 	text-decoration: none;
     color: #fff;
-    background-color: #fd4d4d;
+    background-color: #f28e37;
     font-weight: 600;
     font-family: "Montserrat";
     padding: 15px 40px;
@@ -2180,7 +2180,7 @@ img.svg{
 			box-sizing: border-box; /* Opera/IE 8+ */ 
 }
 .wesley_tm_address_holder_wrap{
-	background-color: rgba(10,4,37,1);
+	background-color: rgba(25,64,119,1);
 }
 .wesley_tm_address_holder_wrap .inner_wrap{
 	text-align: center;
@@ -2208,7 +2208,7 @@ img.svg{
 .wesley_tm_address_holder_wrap .inner_wrap ul li .svg{
 	width: 19px;
 	height: 19px;
-	color: #fd4d4d;
+	color: #f28e37;
 }
 .wesley_tm_address_holder_wrap .inner_wrap ul li p{color: #fff;}
 .wesley_tm_address_holder_wrap .inner_wrap ul li p a{
@@ -2221,14 +2221,14 @@ img.svg{
 	     -o-transition: all .3s ease;
 	        transition: all .3s ease;
 }
-.wesley_tm_address_holder_wrap .inner_wrap ul li p a:hover{color: #fd4d4d;}
+.wesley_tm_address_holder_wrap .inner_wrap ul li p a:hover{color: #f28e37;}
 .wesley_tm_footer_wrap{
 	width: 100%;
 	height: auto;
 	clear: both;
 	float: left;
 	text-align: center;
-	background-color: rgba(10,4,37,1);
+	background-color: rgba(25,64,119,1);
 	padding: 50px;
 	
 	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
@@ -2249,7 +2249,7 @@ img.svg{
     -o-transition: all .3s ease;
     transition: all .3s ease;
 }
-.wesley_tm_footer_wrap p a:hover{color: #fd4d4d;}
+.wesley_tm_footer_wrap p a:hover{color: #f28e37;}
 
 /*---------------------------------------------------*/
 /*	14) WESLEY TO TOP
@@ -2264,7 +2264,7 @@ img.svg{
 	line-height: 38px;
 	z-index: 100;
 	overflow: hidden;
-	background: #fd4d4d;
+	background: #f28e37;
 	opacity: 0;
 	visibility: hidden;
 	text-align: center;
@@ -2312,7 +2312,7 @@ img.svg{
     line-height: 1.2;
     margin-bottom: 10px;
 }
-.wesley_tm_hero_title_second .name span{color: #fd4d4d;}
+.wesley_tm_hero_title_second .name span{color: #f28e37;}
 .wesley_tm_hero_title_second .subtitle{
 	color: #fff;
     font-size: 24px;
@@ -2331,7 +2331,7 @@ img.svg{
 .wesley_tm_hero_button a{
 	text-decoration: none;
     color: #fff;
-    background-color: #fd4d4d;
+    background-color: #f28e37;
     font-weight: 600;
     font-family: "Montserrat";
     padding: 15px 40px;
@@ -2357,7 +2357,7 @@ img.svg{
     z-index: 1;
 }
 .wesley_tm_hero_button a:hover:before{width: 170%;}
-.wesley_tm_hero_button a:hover{color: rgba(10,4,37,1);}
+.wesley_tm_hero_button a:hover{color: rgba(25,64,119,1);}
 .progress_bar_wrap_total[data-space="small"] .wesley_tm_progress{margin-bottom: 15px;}
 .progress_bar_wrap_total[data-space="big"] .wesley_tm_progress{margin-bottom: 25px;}
 .wesley_tm_service_wrapper_all[data-bg="any_color"] {background-color: #f7f7f7;}
@@ -2389,7 +2389,7 @@ img.svg{
 .wesley_tm_service_wrapper_all[data-style="second"] .wesley_tm_services_wrap_second{display: block;}
 .wesley_tm_services_wrap_second .wesley_tm_main_title_holder{margin-bottom: 90px;}
 .wesley_tm_service_wrapper_all[data-style="second"]{padding-bottom: 22px;}
-.wesley_tm_services_wrap_second .service_icon .svg{color: #fd4d4d;}
+.wesley_tm_services_wrap_second .service_icon .svg{color: #f28e37;}
 
 /*---------------------------------------------------*/
 /*	16) WESLEY HOMEPAGE 3
@@ -2400,7 +2400,7 @@ img.svg{
 	font-weight: 600;
 	font-family: "Montserrat";
 	letter-spacing: -1px;
-	color: #fd4d4d;
+	color: #f28e37;
 }
 .wesley_tm_hero_title .animate{
 	font-size: 45px;
@@ -2417,7 +2417,7 @@ img.svg{
 /*	17) WESLEY BACKGROUND VIDEO DEMO
 /*---------------------------------------------------*/
 
-.wesley_tm_universal_box_wrap .overlay_color.video{background-color: rgba(10,4,37,.85);}
+.wesley_tm_universal_box_wrap .overlay_color.video{background-color: rgba(25,64,119,.85);}
 
 /*---------------------------------------------------*/
 /*	18) WESLEY PARTICLES DEMO
@@ -2444,7 +2444,7 @@ img.svg{
 	bottom: 0px;
 	left: 0px;
 	right: 0px;
-	background-color: rgba(10,4,37,.85);
+	background-color: rgba(25,64,119,.85);
 	z-index: 1;
 }
 .wesley_tm_hero_header_particle .container{position: static;}
