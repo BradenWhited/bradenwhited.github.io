@@ -894,6 +894,21 @@ img.svg{
 @-moz-keyframes wesley_tm_expand {0%{ width:0%; } 100%{ width:100%; }}
 @keyframes wesley_tm_expand {0%{ width:0%; } 100%{ width:100%; }}
 
+.wesley_contact_share {
+	width: 100%;
+	color: #fff;
+	clear: both;
+	padding-bottom: 1.5em;
+	float: left;
+	text-align: center;
+	font-size: 40px;
+	
+	box-sizing: border-box;
+}
+.wesley_contact_share a{
+	color: #fd4d4d;
+}
+
 .wesley_tm_about_wrap .about_short_contact_wrap{
 	width: 100%;
 	height: auto;
